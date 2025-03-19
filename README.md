@@ -28,4 +28,5 @@ RUN
 ## Limitations
 - The project is designed for 16-bit systems and operates in real mode.
 - Only integer numbers are supported.
+- In variable names you can only use letters from A to Z
 - Program size is limited by available memory.
