@@ -1,0 +1,4 @@
+NASM\nasm.exe -f bin SRC\BOOT.ASM -o BUILD\BOOT.BIN
+NASM\nasm.exe -f bin SRC\ILM.ASM -o BUILD\ILM.BIN
+NASM\nasm.exe -f bin SRC\FLOPPY.ASM -o BUILD\mBASIC.IMG
+pause
