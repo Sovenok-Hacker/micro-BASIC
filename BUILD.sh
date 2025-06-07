@@ -1,0 +1,3 @@
+nasm -f bin SRC/BOOT.ASM -o BUILD/BOOT.BIN
+nasm -f bin SRC/ILM.ASM -o BUILD/ILM.BIN
+nasm -f bin SRC/FLOPPY.ASM -o BUILD/mBASIC.IMG

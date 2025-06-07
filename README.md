@@ -1,6 +1,10 @@
 # micro-BASIC 
 Micro BASIC is a simple interpreter for the micro BASIC programming language,for x86 PC`s written in NASM.
 
+## Compilation
+Windows: run BUILD.BAT
+Linux: bash BUILD.sh
+
 ![screenshot](https://github.com/PRoX2011/micro-BASIC/raw/main/screenshot.png)
 ## Usage
 - REM - Comment
